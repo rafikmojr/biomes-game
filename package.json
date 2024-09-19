@@ -150,7 +150,7 @@
     "response-time": "^2.3.2",
     "segfault-handler": "^1.3.0",
     "serialize-error": "^8.1.0",
-    "sharp": "^0.32.4",
+    "sharp": "^0.32.6",
     "simple-oauth2": "^4.3.0",
     "stream-browserify": "^3.0.0",
     "tailwind-merge": "^1.13.2",
