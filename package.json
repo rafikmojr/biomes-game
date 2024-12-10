@@ -121,7 +121,7 @@
     "pretty-ms": "^7.0.1",
     "prettyjson": "^1.2.5",
     "prom-client": "^14.2.0",
-    "puppeteer": "^21.0.2",
+    "puppeteer": "^23.10.2",
     "pure-rand": "^6.0.2",
     "querystring-browser": "^1.0.4",
     "re-resizable": "^6.9.9",
