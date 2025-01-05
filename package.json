@@ -109,7 +109,7 @@
     "nanotimer": "^0.3.15",
     "ndarray": "^1.0.19",
     "ndarray-ops": "^1.2.2",
-    "next": "^13.3.2",
+    "next": "^13.5.8",
     "next-build-id": "^3.0.0",
     "next-pwa": "^5.6.0",
     "nookies": "^2.5.2",
