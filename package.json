@@ -129,7 +129,7 @@
     "react-bottom-scroll-listener": "^5.1.0",
     "react-circular-progressbar": "^2.1.0",
     "react-dom": "^18.2.0",
-    "react-email": "1.9.3",
+    "react-email": "3.0.2",
     "react-facebook-pixel": "^1.0.4",
     "react-ga4": "^1.4.1",
     "react-google-recaptcha": "^2.1.0",
